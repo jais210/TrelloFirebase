@@ -1,0 +1,69 @@
+#root{
+  background: #6da2a9;
+  width: 60%;
+  padding-bottom: 200px;
+  border-radius: 10px;
+  margin: 0 auto;
+  padding: 1%;
+}
+
+.caja{
+  background: #9fcbd2;
+  border-radius: 10px;
+  padding: 1%;
+}
+h3{
+  color: #6da2a9;
+}
+.caja .input{
+  width: 90%;
+  border: 2px solid white;
+  border-radius: 10px;
+  height: 25px;
+  margin-bottom: 8px;
+}
+#n{
+  border: none;
+  border-radius: 10px;
+
+}
+.caja button{
+  background: #fbe783;
+  border: 2px solid #fbe783;
+  width: 30%;
+  border-radius: 10px;
+  height: 25px;
+  color: #6da2a9;
+  font-weight: bold;
+}
+
+
+.contador{
+  color: #a0ccd3;
+  font-weight: bold;
+}
+
+ul, li{
+  list-style: none;
+}
+
+.foto{
+ float: left;
+}
+
+
+.name{
+  color: white;
+  border-bottom: 1px solid white;
+  text-transform: uppercase;
+}
+.result button{
+  background: transparent;
+  border:none;
+}
+a{
+  margin-right: 10px;
+}
+.result{
+  margin-bottom: 15px;
+}
